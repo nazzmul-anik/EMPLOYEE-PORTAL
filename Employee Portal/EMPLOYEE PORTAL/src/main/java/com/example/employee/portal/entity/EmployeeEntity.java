@@ -23,4 +23,6 @@ public class EmployeeEntity {
     private String phoneNumber;
     @Column(name = "Employee Designation")
     private String designation;
+    @Column(name = "Employee Email")
+    private String email;
 }
