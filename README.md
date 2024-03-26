@@ -11,3 +11,8 @@ Build a Basic and Simple BACKEND CRUD "Employee Portal" Application.
 * LOMBOK <br>
 * POSTGRESQL <br>
 * POSTMAN
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Employee Details Demo
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="653" alt="image" src="https://github.com/nazzmul-anik/EMPLOYEE-PORTAL-SPRING-BOOT-CRUD-APPLICATION/assets/110289715/1a628401-2a82-4b47-9bed-0ad0ce7a819a">
