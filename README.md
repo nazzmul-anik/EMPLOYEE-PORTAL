@@ -1,4 +1,13 @@
 # EMPLOYEE PORTAL SPRING BOOT CRUD APPLICATION 🏢🧑‍💼👩‍💼🍃♨️
-Build a Basic and Simple CRUD "Employee Portal" Application.
+Build a Basic and Simple BACKEND CRUD "Employee Portal" Application.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Technogies Used
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INTELLIJ
+JDK -17
+SPRING BOOT
+MAVEN
+LOMBOK
+POSTGRESQL
+POSTMAN
