@@ -2,6 +2,18 @@
 Build a Basic and Simple BACKEND CRUD "Employee Portal" Application.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# About This Project
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Created a simple Employee Portal that supports the following CRUD actions: <br>
+
+a) Add Employee : Using Postman you can Add Employee on PostgreSQL database. <br>
+
+b) Delete Employee : Using Employee Id, you can Delete employee from Employee Protal database. <br>
+
+c) Update Employee : Using Employee Id, you can Update emplyee name/email/designation/phone number from existing database. <br>
+
+d) Show all Employee Details: A table containing all relevant details of all the employees.
+
 # Technogies Used
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * INTELLIJ<br>
