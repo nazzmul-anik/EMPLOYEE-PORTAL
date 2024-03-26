@@ -22,12 +22,14 @@ public class EmployeeService {
         entity.setName(domain.getName());
         entity.setDesignation(domain.getDesignation());
         entity.setPhoneNumber(domain.getPhoneNumber());
+        entity.setEmail(domain.getEmail());
         repository.save(entity);
 
         EmployeeDomain details = new EmployeeDomain();
         details.setName(entity.getName());
         details.setDesignation(entity.getDesignation());
         details.setPhoneNumber(entity.getPhoneNumber());
+        details.setEmail(entity.getEmail());
 
         return details;
     }
@@ -41,6 +43,7 @@ public class EmployeeService {
         domain.setName(emp.get().getName());
         domain.setDesignation(emp.get().getDesignation());
         domain.setPhoneNumber(emp.get().getPhoneNumber());
+        domain.setEmail(emp.get().getEmail());
 
         return domain;
     }
@@ -53,6 +56,7 @@ public class EmployeeService {
            domain.setName(employee.getName());
            domain.setDesignation(employee.getDesignation());
            domain.setPhoneNumber(employee.getPhoneNumber());
+           domain.setEmail(employee.getEmail());
            allEmployee.add(domain);
         }
 
@@ -68,6 +72,7 @@ public class EmployeeService {
         entity.setName(domain.getName());
         entity.setDesignation(domain.getDesignation());
         entity.setPhoneNumber(domain.getPhoneNumber());
+        entity.setEmail(domain.getEmail());
         repository.save(entity);
 
         return domain;
