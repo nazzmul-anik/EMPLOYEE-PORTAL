@@ -11,4 +11,5 @@ public class EmployeeDomain {
     private String name;
     private String designation;
     private String phoneNumber;
+    private String email;
 }
